@@ -1,0 +1,55 @@
+4yX2TWgz4fNQUqCh3rPQBV	11	salsaZouk
+5sZk02kg8EWSOroh2G6UfL	50	ZoukTraditionalNew
+0V3esSNy0RBMZydEfwNeC6	324	ZoukNewFavs
+3Ta9P1G0HG0uCebaqU9WV8	26	ZoukNew
+3WrnRCYVQ3Y0ttokAYCZKM	35	ZoukVarried
+1r4axKWTlolkbPiPtk0jBx	11	Zouk_lyrics
+6KYNaqaP3Uz7JcTaA1KgdB	81	TopZouk
+1hyfyTq1mNh6Itv1IY0cEH	124	ZoukFav
+21TSQW3OyLLi31fSTfFvpq	34	ZoukBra
+7kN1bExHecOAX1xLYHGLUh	111	Zouk_OK
+0U3x9PeseXMYsvHL9FfoBV	53	ZoukOnlyInJuliasList
+6nlc91KD9LyBkQi8RHCvXE	75	ZoukPossibly
+3P3zeZTlEt2jzT3N4GOcW8	1	ZoukDuplicates
+7yYEJiO7mjTnTAMhbzneuv	95	Zouk_Experimental
+5NWspfO5SldSl7pfUmjV7O	8	Zouk_mabyNot
+096IT7W1utz2KFpedwag43	191	Zouk_out_goodNotIn_newToPetter
+1cMEwMdwMcMNI9XXpSsoG8	153	ZoukByJulia_copy
+0HF0nYr8e4u7EnmbjuHnge	100	ZoukGivenToPetter
+5FYaW8lkTlIgaMlt6ckYE1	7	Zouk_out_newToPetter
+1n2wt7eaxBUcCPl5KaPRMf	9	Zouk_gong-ka-ka-dunka
+1lsIvoOMfqLmqOSdNYsFFM	405	Zouk_out_only_each_notGoods
+3Aj3C99BcVCgRpUZYxdYpU	30	Zouk_out_rest
+4tJ4SzoRBHkmkOq1MDuRUg	368	Zouk_out_each_allSongs
+0hWwvQU704BAA4mVOTQmvT	242	CheckForZouk
+0SWJOHfQpdCH4rdHPjtNPx	1	Vontade de Amor – Paulo Mac
+46VdMyOlRHLLyCx9Ql9Zzk	494	out_zoukGood
+3irQ5ZuYVS3zPSXpXA8kt0	282	out_rest_newZoukFav
+6DDAP1mEzdUtu1lTzEXXxq	28	out_ZoukOnlyJulia
+5bW4XTMLoKf56ECTubfRxT	425	out_goodNotInJulias
+0qW8EtY9J8Cm5jqCNbUE2u	192	out_zoukGood_verified
+2Nh3n4NbnJDKkuplF2R2iG	1	My Shazam Tracks
+5w7bNCnpehxPgMhV1xDjhX	33	Dilla
+6WoWgq3FOSTL2SZcGVZKc9	0	JuliaLikerIkke
+3t2T469H0PJ6bwNtpXg5gW	63	OSI-Fest
+1evuuvQBj0GzQf1lxP5WG4	5	testA
+39chwbEppxOFjJABqG1C2U	2	testB
+3FSy6NwjbJRXYwPXfjqlUV	1	testC
+7K3OwBxlbcrjxKV9ACXB7l	4	result
+3eDPcuDUcvuhQaCwV7DprD	1	Zouk_jz_Jazz
+1wHrWC1qptnc7oRsBvFwe8	2	Zouk_FS_Fast
+72T0sfZ0bj7yYS2y7mIBqj	2	Z_HH_HipHop
+1xgXyJSsgP3uDPJ7Suf8lb	2	Z_Fl_Flow
+0ChiKkhSsgRd2MS1xaBERu	3	Z_EW_EnglishWaltz
+4mPhM44VqngvPmfYK0gbO8	5	Z_VW_VinniesWaltz
+1bJrZ21UFxTafcBH7om5Mo	1	andWCS
+5u0K7htetQnYp6Kge6IdCd	6	andZouk
+4ODS43h0gNF9PPpDdWFF8a	4	and Waltz
+4yKufJYee1Gfhij3XEOWqn	1	andRockStep
+5mf3uEiCZ2XovutoifzBzc	1	and Salsa
+0wRqWOtTMJNjaPMZZDcnVo	1	and Samba
+5MSj2CkwKQ1HQRdvN8AMHi	1	andBachata
+6vQl0CNfIuR2obxA4UgiCg	224	bra
+2suyyLdeegrtET4gYbxEAU	12	interesting lyrics
+6HfP5ll3r1gAQDOaPpgK0e	19	VarriedHooverphonic
+4UhEWK1g86apgvOzUTsK0F	74	tmp

@@ -1,0 +1,184 @@
+30hucH6xn9kFN51euAfUQT	9	modern orchestra
+5sZk02kg8EWSOroh2G6UfL	51	ZoukTraditionalNew
+0V3esSNy0RBMZydEfwNeC6	344	ZoukNewFavs
+3Ta9P1G0HG0uCebaqU9WV8	33	ZoukNew
+6KYNaqaP3Uz7JcTaA1KgdB	35	TopZouk
+1hyfyTq1mNh6Itv1IY0cEH	115	ZoukFav
+21TSQW3OyLLi31fSTfFvpq	230	ZoukBra
+7kN1bExHecOAX1xLYHGLUh	138	Zouk_OK
+6nlc91KD9LyBkQi8RHCvXE	91	ZoukPossibly
+3P3zeZTlEt2jzT3N4GOcW8	4	ZoukDuplicates
+2UroIfHDazGkm73Zm8jhWq	3	Zouk_slow
+7yYEJiO7mjTnTAMhbzneuv	140	Zouk_Experimental
+5NWspfO5SldSl7pfUmjV7O	11	Zouk_mabyNot
+1cMEwMdwMcMNI9XXpSsoG8	153	ZoukByJulia_copy
+0HF0nYr8e4u7EnmbjuHnge	100	ZoukGivenToPetter
+0hWwvQU704BAA4mVOTQmvT	242	CheckForZouk
+4D5z5UOchLr0yfI0Qy7Fha	27	s Falling in Love
+0SWJOHfQpdCH4rdHPjtNPx	1	Vontade de Amor – Paulo Mac
+4Mc8JVWV8fsaJhX2wSdYNQ	14	copy_Discover_Weekly
+4GvEkApfo8uRNkVJzhrxMa	4	zouk_tango
+3WrnRCYVQ3Y0ttokAYCZKM	62	ZoukVarried
+38xlclkDqisKgts1vbnBPF	2	Zouk_safe_std_beat
+1xgXyJSsgP3uDPJ7Suf8lb	2	Z_Fl_Flow
+1368KSV5UGzJissdhRn8Zy	0	Varriyng_rythm
+2IVEgqLJIL9ZR3a6BPb4GF	2	multiple_levels_of_rythms
+0ChiKkhSsgRd2MS1xaBERu	4	Z_EW_EnglishWaltz
+4yX2TWgz4fNQUqCh3rPQBV	23	salsaZouk
+2Nktrjy79lHdtShfsEsVeL	3	ZoukChallengingRythm
+1n2wt7eaxBUcCPl5KaPRMf	11	Zouk_gong-ka-ka-dunka
+1wHrWC1qptnc7oRsBvFwe8	2	Zouk_FS_Fast
+72T0sfZ0bj7yYS2y7mIBqj	2	Z_HH_HipHop
+3eDPcuDUcvuhQaCwV7DprD	1	Zouk_jz_Jazz
+4mPhM44VqngvPmfYK0gbO8	6	Z_VW_VinniesWaltz
+1r4axKWTlolkbPiPtk0jBx	13	Zouk_lyrics
+0AjkyHCowhVZj6D5iFxlyJ	8	ValtzZouk
+096IT7W1utz2KFpedwag43	191	Zouk_out_goodNotIn_newToPetter
+0U3x9PeseXMYsvHL9FfoBV	53	ZoukOnlyInJuliasList
+5FYaW8lkTlIgaMlt6ckYE1	7	Zouk_out_newToPetter
+1lsIvoOMfqLmqOSdNYsFFM	405	Zouk_out_only_each_notGoods
+4tJ4SzoRBHkmkOq1MDuRUg	368	Zouk_out_each_allSongs
+3Aj3C99BcVCgRpUZYxdYpU	30	Zouk_out_rest
+1uisienNJRMRL7CxhHcUAl	38	out_Dilla
+46VdMyOlRHLLyCx9Ql9Zzk	570	out_zoukGood
+3irQ5ZuYVS3zPSXpXA8kt0	236	out_rest_newZoukFav
+5bW4XTMLoKf56ECTubfRxT	471	out_goodNotInJulias
+5oMejFXp5kIjuPdABi9RlV	289	out_zoukGood_verified_nonexperimental
+6DDAP1mEzdUtu1lTzEXXxq	16	out_ZoukOnlyJulia
+1oMNwwafOteoc8qcoN5AUO	1070	out_forGjennomgang
+39chwbEppxOFjJABqG1C2U	450	from_out_forGjennomgang
+0qW8EtY9J8Cm5jqCNbUE2u	315	out_zoukGood_verified
+4FjTecPVVziQ0SkXuy7f0K	4	quickstep
+2frqYLLKr2Z9BGJ9aDiPkF	7	Kizumba_Maybe
+4Zb26i0UPqhGzMkYHIJ4pf	64	tango top
+281oIr0SLFv3nG151SDg3Y	85	tango
+51ie1p9KGpRBS2te9mMquz	4	Milonga
+0UKcQvqggOGvF7vAUW5Jfa	2	TangoValtz
+0dtkoFtPubzfJwWDLiF00s	9	SL-Tango-pub
+2R0JoW1CzdrpUpR2h1XP7K	9	Swing Jive
+2eHV0RO5TpXuy8AUTmeQ6d	6	WS-swing
+6Mqf1uC2kVQD8GAMgNHfmo	9	samba
+4OsLcJgj6bVgMh3kt9UpVp	6	vinervals
+4hq4h1eLIP9CVMIVq7XDlv	9	vals
+3iWOi4z6wACMH9encdjFwd	2	rumba
+4m1AfkHsFiECKNnetxJzCP	10	kombi
+16yHtOlqi0p9gCeLxTgAtL	3	bochata
+3GdH7ZSmAWzMENqPXpqxP0	7	cha cha
+40Y2TiHeNFFPIWQMtxXJVc	25	Salsa
+3fMPJ2mYay10IEmtjN9Yto	4	Salsa top
+7fm3YPnraX2QQt9Xjd1Fc6	4	and_tango
+1bJrZ21UFxTafcBH7om5Mo	1	andWCS
+5u0K7htetQnYp6Kge6IdCd	17	andZouk
+4ODS43h0gNF9PPpDdWFF8a	5	and Waltz
+4yKufJYee1Gfhij3XEOWqn	1	andRockStep
+5mf3uEiCZ2XovutoifzBzc	2	and Salsa
+0wRqWOtTMJNjaPMZZDcnVo	5	and Samba
+5MSj2CkwKQ1HQRdvN8AMHi	3	andBachata
+2Nh3n4NbnJDKkuplF2R2iG	58	My Shazam Tracks
+5w7bNCnpehxPgMhV1xDjhX	59	Dilla
+6WoWgq3FOSTL2SZcGVZKc9	2	JuliaLikerIkke
+3jEqvSpZbh7VjerAFLDfQK	0	JuliaErLeiAv
+1Qg97KTLyWPcrLbMc1soDi	5	testA
+7z5Z0PEggsFoA6CxS37GMe	2	testB
+3FSy6NwjbJRXYwPXfjqlUV	1	testC
+7K3OwBxlbcrjxKV9ACXB7l	4	testResult
+6vQl0CNfIuR2obxA4UgiCg	251	bra
+2suyyLdeegrtET4gYbxEAU	25	interesting lyrics
+6HfP5ll3r1gAQDOaPpgK0e	19	VarriedHooverphonic
+4UhEWK1g86apgvOzUTsK0F	79	tmp
+3t2T469H0PJ6bwNtpXg5gW	63	OSI-Fest
+5FKaAK4JHLekIHcswNgclf	217	Macy Gray
+5wOnuA3OyUaxzIyp3yVA2v	106	Marina and the D...
+2L7janUTtMg8ehuCrlLA12	212	Pink
+2Mg8J7sEUGX4fNvhWppki5	60	The Neighbourhood
+4hBfh13vZf1GO50PF8adqU	254	Parov Stelar
+0jrQWbemqLDfj4E8WAELq5	121	Arctic Monkeys
+6uMkDrM9LW9ctPVP6AY1EI	190	Demi Lovato
+1eGf9DYNtRXJQEgE9qERTF	3891	ZoukListsCollected
+0CcRCYkAXvf0LkooPeTltT	147	ZoukListsCollected_done
+3CPkzD2TRGPpzGOUnyGG3p	333	Metallica
+0l4mpVcZaJcHSUNbzTGVlx	10	nowPlaying BBB
+3j30YhKg1Fo66DRnqn7oRd	1189	nowPlaying AAA
+6HgOlQh5vK7Nq0qxdmNe2F	171	TEMP possibly delete
+3Dlr4ohMl5uFMOl2O4Ei0u	227	SomeZoukCollected
+02eIoXqPdbmUPo5tQYdeDv	54	TEMP_Tango
+0G0ePLjEOA8CFeauH9BjhB	27	Gotan Project – Tango 3.0
+5Px3xhGoCktM22wWrMexV0	19	klassisk
+4bY237zN4nYqCwpqY0DkOa	15	Edvard Grieg – Peer Gynt (Incidental Music)
+3kmyf46HT1VexOMG4Cvx68	483	rand classic
+0rN0wMQAOZ6NpAvjQFGEUP	56	75 Years of Great Film Music – 75 Years of Great Film Music
+7KzXGrSVZhrersRGXYiBeb	15	Various Artists – Wizards & Dragons: A Fantasy Gamer Mix
+5voQ2RjZEeZicy8l9RN1D5	155	John Williams – Star Wars Episode 1_ La Menace fantome_ Original Motion Picture Soundtrack - French
+4DVhCOKxn3ZziRHYXFwP81	50	Various Artists – 50 Best Classics
+6tOwHtPjoDHsuaBS93aNwE	9	Fame
+7ioFffv9GZnYw3vLcjbYD4	19	Fame -  OST
+6sIxkHjtUj4vcx41XHXeQZ	9	The London Theatre Orchestra & Cast – Annie
+3ffAPLXLnXiLUT1jWXfx3f	27	Andrea, McArdle Dorothy Loudon, Reid Shelton, Sandy Faison – Annie - Original Broadway Cast Recording
+5Da6boW67Ut75pZJ7qpfhx	48	Annie: The Broadway Musical 30th Anniversary Cast Recording
+6PvoFk8rTxQCLnnwmbxk8E	18	Chess
+0JUZGfC7t7DKxbgf1cSOGH	27	Hair
+2Cijn8qAZyRZDVbG1bIDjB	16	Moulin Rouge
+21uFHA98EKYlGsakMxTeWi	24	Grease
+4n3lyBaYsxCNCv386OzTmI	23	West Side Story
+0O1mlpa1V1bAiphzws22cg	31	Les Misérables
+7gQzPeLP3jc5Q5WNjl07aU	3	Which Witch - Studio & Concert Cast – Which Witch [Studio & Concert Highlights] - EP
+60rAeM5kS4ZBNg5WdHSxIy	21	Phantom Of The Opera
+14EbdXM2cVDkbf8lf0QEDs	18	Chicago
+7quXNLlkf0Z6mlzEHlYOHn	28	RENT
+1K801ZjZ7VdtbKUbu3nHzP	13	A Chorus Line
+20vFqXRvy1mHEGhcMrssDn	40	Nathan Lane, Matthew Broderick – The Producers - Original Broadway Cast
+3xSG67HglvaUJDSiGsRINh	19	Wicked
+0FmCLsnqO6rpEeeccle5Ua	28	The Fantasticks
+5q5oGNKOXUBoeZ2O9puWBW	29	Superfamily
+54M7vSzjg1NVqU4pwAEekG	18	The Vincent Black Shadow
+2r10TEX7T6P0lCIn9HGz1J	28	evanescence
+3zK4eMj9IJYFdNmErjQUim	15	Trijntje Oosterhuis – Sundays In New York
+5OSrHCuZsCTsfHUYcwMX8s	12	Cortina – Sound Of A New Day
+4tXQODnumOjkhNBZEAh8rv	25	Mariah Carey – Music Box_Rainbow
+3uec09ueY9mmMMVvxFt64z	15	Virginia Labuat – Dulce Hogar
+6qFqxk8tMJ9gp00w46GmSk	20	Bob Marley – Live Forever: The Stanley Theatre, Pittsburgh, PA, September 23, 1980
+77RbcrB3fOxNRF2K5RpLxV	3	Øystein Sunde
+1b8rgMKC0ooja74Bizza6h	5	Jonathan Coulton
+226vXqCWeyNyUuYM34qSGL	20	Avril Lavigne – Goodbye Lullaby
+0BuQtwIaRSomb2lRByIqh9	223	SPIKE
+2JiR62nyhFrrI1XGvGJwgi	194	Apocalyptica
+2l6DPobBsRbciTJnhMMKrq	41	Evanescence
+1v6F6fNqBB1milsjZU8Y4d	4	BEST Tom Lehrer
+5BbypcsrJZx6Gc6EOLapkG	151	Tom Lehrer
+0TwiU6REcv9YX4W5x3bad3	172	WOtW
+2baKg9tRECaZ7ANwc3snCO	1	TrackID™
+3lMhKUByp4Ia4JaEa0ZYLF	30	TestList
+2CgjoBmIEIavP8R6NFVxQE	1	VisJulia
+2QUjwUsT9LTvd1NAQsm7xx	4	om julia
+5xlREzlH6KFSS5KhP8Siv3	28	Nintendo
+7BITH04qiCBv5hc9n7GcOz	3	TilJulia
+4maL42V22viDAAgv35ObO5	3	Happy
+2A1gTpxBDdsOFxjqKQqKXD	11	Humor
+3REW7CjbYaAy7jsGuiBZFd	64	Starred
+7bCLRV3pDNlZA2PCJKAi19	77	top favorites
+0iyIp6mBY6uYWD2rkpljrj	17	female favorites
+3OYsnV7cUYfNmL9GAKA429	52	topShared
+75PmWffJiq00UR5Pm6AyRO	53	copyTopShared
+0TlqzwtAnxEI4MQjVytCk9	0	topDumped
+06eZoUGiyYe4z3ntk6mb1T	1	Good to share
+1P1TQpTtA8XRprnIDzsKrR	152	kun bra
+0F51NtPcdkB7vHMqFwg3pY	44	sad_love
+4sbHl09GRbbRRbulXTJQFr	6	Ambient_ish
+404Yh4Y0NYN79z0yNQsZHl	50	calm
+51xnOsRdiwGPVIkcRC7FaY	21	annet
+4zHFajq7QelUyi92TBdLzi	29	DunkDunk
+0QYfdrnBd72y1pMb7I981S	0	sony01
+3KyVHrHUNj4I0wxVMeFJ6R	152	Some music
+1evuuvQBj0GzQf1lxP5WG4	16	CheckedFromJulia
+2tGkh2QaMIAnff3Hg8kVmU	6	Underlig (underlig folelse fra musikken)
+2iZ1F5ldxtr2NOwe4Ixjgq	198	Hooverphonic
+4zpgxWR94t5l7tNwNawzlB	387	random
+0GAlzgSYsk5gG4eGcBlcFS	140	Lana Del Rey
+11lZrkt1xT7Xfz5YDyCuor	104	HaveHeardAndCategorizedOrIgnored
+4hHVgOp7jEuyQyRbKrKqFF	84	_heard_tango
+5JwasX2zW0Lrov0VjyWPpP	59	caravan palace
+4A03pFdIfT5Hj1YYJskyKd	76	_heard_discoverWeekly
+1e1HHjbQzthOJQrnbGkL20	115	Odesza
+0oX78jxLyMTXkJPko0AiSE	11	Vulgar cover images
+030Wyt3szraZ1StTfjQgMm	2	Interesting cover Image
+4iYkL6OXntXPkcY37n7R4c	1	Jazz
