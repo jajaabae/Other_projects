@@ -1,0 +1,3 @@
+work_path	S:\fileFolder_128GB\Annet\Jobb\Jobbsoeking\CURRENT_DOCUMENTS\Jaabaek_Documentasjon\BSc_Informatikk
+specify_files	False
+files	Jaabaek_MSc_Chemistry (1).pdf; Jaabaek_BSc_Informatics (1).pdf; Jaabaek_BSc_Chemistry (1).pdf; Jaabaek_Letter_of_Recomendation_Nor.pdf; Jaabaek_Diploma_for_Vocational_Studies_Nor.pdf

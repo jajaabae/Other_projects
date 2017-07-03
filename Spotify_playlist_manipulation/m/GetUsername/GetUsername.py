@@ -1,5 +1,0 @@
-def GetUsername():
-    return 'atrakaz'
-
-
-

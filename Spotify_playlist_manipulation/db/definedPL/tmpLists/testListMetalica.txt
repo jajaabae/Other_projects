@@ -1,4 +1,0 @@
-testA
--testB
-{endArg}
-testC
